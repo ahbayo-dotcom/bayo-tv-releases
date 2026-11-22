@@ -1,0 +1,23 @@
+{
+  "version": "2.3.12",
+  "build": 17,
+  "minVersion": "2.3.0",
+  "releasedAt": "2026-11-21",
+  "notes_ar": "تشغيل أنعم على أجهزة التلفزيون الضعيفة، رجوع التركيز إلى التصنيف المختار، بانر رئيسي جديد، عدد المحتوى بجانب كل تصنيف، وفتح أسرع بحفظ المحتوى على الجهاز.",
+  "notes_en": "Smoother playback on weak TVs, focus returns to the selected category, new Home banner, title counts beside each category, and faster start with the catalog saved on the device.",
+  "android_arm64": {
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-arm64.apk",
+    "size": 35384163,
+    "sha256": "6eb03880f82abda05839bfa9bdba71fda530ab5c487149c3b6180fe0558a2f71"
+  },
+  "android_armv7": {
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-armv7.apk",
+    "size": 32352575,
+    "sha256": "24e478db6466549d08ecfadad580c94a7b332184bfa59547bd7abcedae2aab91"
+  },
+  "windows": {
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-Setup.exe",
+    "size": 28164478,
+    "sha256": "52609b35db378e158d377892c3ace1d937cd022e6ec5a7c6ac9ea78ce65fc9b2"
+  }
+}
