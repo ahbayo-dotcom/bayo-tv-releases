@@ -1,23 +1,22 @@
 {
-  "version": "2.3.12",
-  "build": 17,
-  "minVersion": "2.3.0",
-  "releasedAt": "2026-11-21",
-  "notes_ar": "تشغيل أنعم على أجهزة التلفزيون الضعيفة، رجوع التركيز إلى التصنيف المختار، بانر رئيسي جديد، عدد المحتوى بجانب كل تصنيف، وفتح أسرع بحفظ المحتوى على الجهاز.",
-  "notes_en": "Smoother playback on weak TVs, focus returns to the selected category, new Home banner, title counts beside each category, and faster start with the catalog saved on the device.",
+  "version": "2.3.13",
+  "build": 18,
+  "releasedAt": "2026-11-24",
+  "notes_en": "Long category names read on two lines on TV; frameless hero with the details of the title you are on; remote focus fixes (returns to the chosen category, dialogs show where the remote is, search and Favorites); the app now asks to update itself (you choose, never forced).",
+  "notes_ar": "أسماء التصنيفات الطويلة تظهر على سطرين في التلفزيون؛ بانر رئيسي بلا إطار يعرض تفاصيل ما تقف عليه؛ إصلاحات التنقل بالريموت (الرجوع إلى التصنيف المختار، وظهور موضع الريموت في النوافذ، والبحث والمفضلة)؛ التطبيق يسأل الآن إن كان هناك تحديث، ولا يفرضه.",
   "android_arm64": {
-    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-arm64.apk",
-    "size": 35384163,
-    "sha256": "6eb03880f82abda05839bfa9bdba71fda530ab5c487149c3b6180fe0558a2f71"
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.13/BayoTV-2.3.13-arm64.apk",
+    "size": 35450423,
+    "sha256": "e67a4919a5353ee24c010c1251dc290bb264bd82494258e9aa26386ff01a31d9"
   },
   "android_armv7": {
-    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-armv7.apk",
-    "size": 32352575,
-    "sha256": "24e478db6466549d08ecfadad580c94a7b332184bfa59547bd7abcedae2aab91"
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.13/BayoTV-2.3.13-armv7.apk",
+    "size": 32402451,
+    "sha256": "bf53097287abb7fa780c5728385b65ebc2dbd361183f63f16ad4e21f323cb71e"
   },
   "windows": {
-    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.12/BayoTV-2.3.12-Setup.exe",
-    "size": 28164478,
-    "sha256": "52609b35db378e158d377892c3ace1d937cd022e6ec5a7c6ac9ea78ce65fc9b2"
+    "url": "https://github.com/ahbayo-dotcom/bayo-tv-releases/releases/download/v2.3.13/BayoTV-2.3.13-Setup.exe",
+    "size": 28188414,
+    "sha256": "fe222e890ad7eacabff743247d08fd4960d47d9b1d8a6453c378dd50c1fe5072"
   }
 }
